@@ -1,32 +1,31 @@
 Relátorio- Atividade 2:
 
-1. Navegação inicial
-Acessamos o diretório do usuário e utilizamos comandos para visualizar os arquivos existentes no sistema.
+1. Acesso ao sistema
+Abrimos o terminal (CMD/Git Bash) e acessamos a pasta principal do usuário no computador. Isso foi feito para começar a trabalhar a partir de um local conhecido e visualizar os arquivos já existentes.
 
 2. Criação do projeto
-Criamos a pasta principal chamada ProjetoSoftware e acessamos esse diretório para iniciar a organização.---
+Criamos uma nova pasta chamada ProjetoSoftware, que funciona como o espaço onde todo o projeto será desenvolvido e organizado.
 
-3. Estrutura de diretório.
-Foram criadas subpastas (Documentos, Scripts, Recursos e Backup) para estruturar o projeto de forma organizada.
+3. Organização das pastas
+Dentro dessa pasta principal, criamos outras pastas (Documentos, Scripts e Recursos). A ideia é separar os arquivos por tipo, facilitando a organização e a localização depois.
 
-4. Criação do README
-Criamos o arquivo README.md e adicionamos informações básicas como autor e data.
+4. Criação do arquivo principal
+Criamos o arquivo README.md, que serve como um documento de apresentação do projeto. Nele foram adicionadas informações básicas como o nome do autor e a data.
 
 5. Criação de scripts
-Dentro da pasta Scripts, foram criados arquivos do tipo .bat para representar scripts do projeto.
+Na pasta Scripts, criamos arquivos com extensão .bat, que são arquivos usados para automatizar comandos no Windows, simulando pequenas funções do sistema.
 
-6. Cópia de arquivos
-O arquivo README.md foi copiado para a pasta Documentos, mantendo uma versão adicional do arquivo.
+6. Organização dos arquivos
+Os arquivos foram distribuídos entre as pastas criadas, colocando cada item em seu local adequado dentro da estrutura do projeto.
 
-7. Organização de arquivos
-Os arquivos foram organizados entre as pastas, distribuindo corretamente os recursos dentro da estrutura criada.
+7. Registro das ações
+Foi gerado um arquivo contendo o histórico dos comandos utilizados no terminal. Isso permite registrar tudo o que foi feito durante a atividade.
 
-8. Limpeza do projeto
-A pasta Backup foi removida como parte da organização final do ambiente.
+8. Inicialização do controle de versão
+Utilizamos o Git para transformar a pasta em um repositório, permitindo acompanhar e controlar todas as alterações feitas no projeto ao longo do tempo.
 
-9. Registro de histórico
-Foi gerado um arquivo contendo o histórico de comandos utilizados durante a atividade.
+9. Salvamento das alterações
+Adicionamos os arquivos ao Git e realizamos um commit, que funciona como um “salvamento oficial” do estado atual do projeto.
 
-10. Verificação final
-A estrutura do projeto e o conteúdo dos arquivos foram verificados para garantir a organização e funcionamento esperado.
-
+10. Publicação no GitHub
+Conectamos o repositório local a um repositório online no GitHub e enviamos os arquivos, tornando o projeto acessível pela internet e permitindo seu compartilhamento.
