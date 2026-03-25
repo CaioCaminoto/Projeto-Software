@@ -1,0 +1,50 @@
+notepad script1.bat
+script2.bat
+notepad script2.bat
+copy README.md Documentos 
+copy README.md \Documentos 
+cd ..\
+copy README.md \Documentos 
+copy ..\Documentos README.md 
+copy README.md \Documentos 
+copy README.md Documentos 
+Documentos
+cd Documentos
+dir
+del README.md
+cd ..\
+cd ..\ copy README.md 
+copy cd ..\README.md 
+copy README.md C:\Users\Caio Araujo\Documents\
+copy README.md C:\Documents\
+copy README.md C:\Users\Caio Araujo\Documents\
+cd ..\Documents
+copy C:\ProjetoSoftware\README.md .
+copy C:\ProjetoSoftware\README.md 
+copy README.md 
+..\ProjetoSoftware
+cd ..\
+cd ProjetoSoftware
+copy README.md ../Documentos
+cd Scripts
+move script2.bat /Recursos
+move Scripts\script2.bat Recursos\
+move Scripts\script2.bat Recursos
+move Scripts\script2.bat Recursos\
+move script2.bat Recursos\
+dir
+move script2.bat ..\Recursos
+dir ..\Recursos
+ren script1.bat main.bat
+dir
+cd ..\
+del Backup
+s
+dir
+rmdir Backup
+dir
+cd ..\
+copy ProjetoSoftware ProjetoSoftware_backup
+Doskey /history > history.txt
+cd ProjetoSoftware
+Doskey /history > history.txt
