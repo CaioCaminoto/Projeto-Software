@@ -1,0 +1,32 @@
+Relátorio- Atividade 2:
+
+1. Navegação inicial
+Acessamos o diretório do usuário e utilizamos comandos para visualizar os arquivos existentes no sistema.
+
+2. Criação do projeto
+Criamos a pasta principal chamada ProjetoSoftware e acessamos esse diretório para iniciar a organização.---
+
+3. Estrutura de diretório.
+Foram criadas subpastas (Documentos, Scripts, Recursos e Backup) para estruturar o projeto de forma organizada.
+
+4. Criação do README
+Criamos o arquivo README.md e adicionamos informações básicas como autor e data.
+
+5. Criação de scripts
+Dentro da pasta Scripts, foram criados arquivos do tipo .bat para representar scripts do projeto.
+
+6. Cópia de arquivos
+O arquivo README.md foi copiado para a pasta Documentos, mantendo uma versão adicional do arquivo.
+
+7. Organização de arquivos
+Os arquivos foram organizados entre as pastas, distribuindo corretamente os recursos dentro da estrutura criada.
+
+8. Limpeza do projeto
+A pasta Backup foi removida como parte da organização final do ambiente.
+
+9. Registro de histórico
+Foi gerado um arquivo contendo o histórico de comandos utilizados durante a atividade.
+
+10. Verificação final
+A estrutura do projeto e o conteúdo dos arquivos foram verificados para garantir a organização e funcionamento esperado.
+
